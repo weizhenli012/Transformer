@@ -1,0 +1,10 @@
+\beamer@slide {fig:intro_figure}{4}
+\beamer@slide {sec:transformer}{5}
+\beamer@slide {fig:multi-head-att}{5}
+\beamer@slide {sec:tokenformer}{6}
+\beamer@slide {fig:tokenformer_figure}{6}
+\beamer@slide {eq:token-parameter-3}{9}
+\beamer@slide {fig:scaling_accum}{10}
+\beamer@slide {fig:scaling_individual}{10}
+\beamer@slide {tab:llm_benchmark}{11}
+\beamer@slide {tab:visual_benchmark}{12}

@@ -1,0 +1,239 @@
+\begin{thebibliography}{46}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Alec et~al.(2019)Alec, Jeffrey, Rewon, David, Dario, Ilya, et~al.]{radford2019language}
+Radford Alec, Wu~Jeffrey, Child Rewon, Luan David, Amodei Dario, Sutskever Ilya, et~al.
+\newblock Language models are unsupervised multitask learners.
+\newblock \emph{OpenAI blog}, 2019.
+
+\bibitem[Ba(2016)]{ba2016layer}
+Jimmy~Lei Ba.
+\newblock Layer normalization.
+\newblock \emph{arXiv preprint arXiv:1607.06450}, 2016.
+
+\bibitem[Biderman et~al.(2023)Biderman, Schoelkopf, Anthony, Bradley, O’Brien, Hallahan, Khan, Purohit, Prashanth, Raff, et~al.]{biderman2023pythia}
+Stella Biderman, Hailey Schoelkopf, Quentin~Gregory Anthony, Herbie Bradley, Kyle O’Brien, Eric Hallahan, Mohammad~Aflah Khan, Shivanshu Purohit, USVSN~Sai Prashanth, Edward Raff, et~al.
+\newblock Pythia: A suite for analyzing large language models across training and scaling.
+\newblock In \emph{ICML}. PMLR, 2023.
+
+\bibitem[Black et~al.(2021)Black, Gao, Wang, Leahy, and Biderman]{black2021gpt}
+Sid Black, Leo Gao, Phil Wang, Connor Leahy, and Stella Biderman.
+\newblock Gpt-neo: Large scale autoregressive language modeling with mesh-tensorflow.
+\newblock 2021.
+\newblock URL \url{https://api.semanticscholar.org/CorpusID:245758737}.
+
+\bibitem[Black et~al.(2022)Black, Biderman, Hallahan, Anthony, Gao, Golding, He, Leahy, McDonell, Phang, et~al.]{black2022gpt}
+Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle McDonell, Jason Phang, et~al.
+\newblock Gpt-neox-20b: An open-source autoregressive language model.
+\newblock \emph{ACL Workshop}, 2022.
+
+\bibitem[Brown et~al.(2020)Brown, Mann, Ryder, Subbiah, Kaplan, Dhariwal, Neelakantan, Shyam, Sastry, Askell, et~al.]{brown2020language}
+Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared~D Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, et~al.
+\newblock Language models are few-shot learners.
+\newblock In \emph{NeurIPS}, 2020.
+
+\bibitem[Chen et~al.(2021{\natexlab{a}})Chen, Yin, Shang, Jiang, Qin, Wang, Wang, Chen, Liu, and Liu]{chen2021bert2bert}
+Cheng Chen, Yichun Yin, Lifeng Shang, Xin Jiang, Yujia Qin, Fengyu Wang, Zhi Wang, Xiao Chen, Zhiyuan Liu, and Qun Liu.
+\newblock bert2bert: Towards reusable pretrained language models.
+\newblock In \emph{ACL}, 2021{\natexlab{a}}.
+
+\bibitem[Chen et~al.(2021{\natexlab{b}})Chen, Lu, Rajeswaran, Lee, Grover, Laskin, Abbeel, Srinivas, and Mordatch]{chen2021decision}
+Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Misha Laskin, Pieter Abbeel, Aravind Srinivas, and Igor Mordatch.
+\newblock Decision transformer: Reinforcement learning via sequence modeling.
+\newblock In \emph{NeurIPS}, 2021{\natexlab{b}}.
+
+\bibitem[Chen et~al.(2015)Chen, Goodfellow, and Shlens]{chen2015net2net}
+Tianqi Chen, Ian Goodfellow, and Jonathon Shlens.
+\newblock Net2net: Accelerating learning via knowledge transfer.
+\newblock In \emph{ICLR}, 2015.
+
+\bibitem[Deng et~al.(2009)Deng, Dong, Socher, Li, Li, and Fei-Fei]{deng2009imagenet}
+Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, and Li~Fei-Fei.
+\newblock Imagenet: A large-scale hierarchical image database.
+\newblock In \emph{CVPR}, 2009.
+
+\bibitem[Dosovitskiy et~al.(2021)Dosovitskiy, Beyer, Kolesnikov, Weissenborn, Zhai, Unterthiner, Dehghani, Minderer, Heigold, Gelly, Uszkoreit, and Houlsby]{dosovitskiy2021an}
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby.
+\newblock An image is worth 16x16 words: Transformers for image recognition at scale.
+\newblock In \emph{ICLR}, 2021.
+
+\bibitem[Dunford \& Schwartz(1988)Dunford and Schwartz]{dunford1988linear}
+Nelson Dunford and Jacob~T Schwartz.
+\newblock \emph{Linear operators, part 1: general theory}.
+\newblock John Wiley \& Sons, 1988.
+
+\bibitem[Fu et~al.(2023)Fu, Dao, Saab, Thomas, Rudra, and Re]{fu2023hungry}
+Daniel~Y Fu, Tri Dao, Khaled~Kamal Saab, Armin~W Thomas, Atri Rudra, and Christopher Re.
+\newblock Hungry hungry hippos: Towards language modeling with state space models.
+\newblock In \emph{ICLR}, 2023.
+
+\bibitem[Gao et~al.(2020)Gao, Biderman, Black, Golding, Hoppe, Foster, Phang, He, Thite, Nabeshima, et~al.]{gao2020pile}
+Leo Gao, Stella Biderman, Sid Black, Laurence Golding, Travis Hoppe, Charles Foster, Jason Phang, Horace He, Anish Thite, Noa Nabeshima, et~al.
+\newblock The pile: An 800gb dataset of diverse text for language modeling.
+\newblock \emph{arXiv preprint arXiv:2101.00027}, 2020.
+
+\bibitem[Gokaslan \& Cohen(2019)Gokaslan and Cohen]{Gokaslan2019OpenWeb}
+Aaron Gokaslan and Vanya Cohen.
+\newblock Openwebtext corpus.
+\newblock \url{http://Skylion007.github.io/OpenWebTextCorpus}, 2019.
+
+\bibitem[Gong et~al.(2019)Gong, He, Li, Qin, Wang, and Liu]{gong2019efficient}
+Linyuan Gong, Di~He, Zhuohan Li, Tao Qin, Liwei Wang, and Tieyan Liu.
+\newblock Efficient training of bert by progressively stacking.
+\newblock In \emph{ICML}, 2019.
+
+\bibitem[Gu \& Dao(2023)Gu and Dao]{mamba}
+Albert Gu and Tri Dao.
+\newblock Mamba: Linear-time sequence modeling with selective state spaces.
+\newblock \emph{arXiv preprint arXiv:2312.00752}, 2023.
+
+\bibitem[He et~al.(2022)He, Chen, Xie, Li, Doll{\'a}r, and Girshick]{he2022masked}
+Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Doll{\'a}r, and Ross Girshick.
+\newblock Masked autoencoders are scalable vision learners.
+\newblock In \emph{CVPR}, 2022.
+
+\bibitem[Hendrycks \& Gimpel(2016)Hendrycks and Gimpel]{hendrycks2016gaussian}
+Dan Hendrycks and Kevin Gimpel.
+\newblock Gaussian error linear units (gelus).
+\newblock \emph{arXiv preprint arXiv:1606.08415}, 2016.
+
+\bibitem[Hu et~al.(2022)Hu, yelong shen, Wallis, Allen-Zhu, Li, Wang, Wang, and Chen]{hu2022lora}
+Edward~J Hu, yelong shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu~Wang, and Weizhu Chen.
+\newblock Lo{RA}: Low-rank adaptation of large language models.
+\newblock In \emph{ICLR}, 2022.
+
+\bibitem[Kaplan et~al.(2020)Kaplan, McCandlish, Henighan, Brown, Chess, Child, Gray, Radford, Wu, and Amodei]{kaplan2020scaling}
+Jared Kaplan, Sam McCandlish, Tom Henighan, Tom~B Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei.
+\newblock Scaling laws for neural language models.
+\newblock \emph{arXiv preprint arXiv:2001.08361}, 2020.
+
+\bibitem[Karpathy(2022)]{nanogpt}
+Andrej Karpathy.
+\newblock Nanogpt, 2022.
+\newblock URL \url{https://github.com/karpathy/nanoGPT}.
+
+\bibitem[Liu et~al.(2023)Liu, Li, Wu, and Lee]{liu2023visual}
+Haotian Liu, Chunyuan Li, Qingyang Wu, and Yong~Jae Lee.
+\newblock Visual instruction tuning.
+\newblock In \emph{NeurIPS}, 2023.
+
+\bibitem[Liu et~al.(2021)Liu, Lin, Cao, Hu, Wei, Zhang, Lin, and Guo]{liu2021swin}
+Ze~Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, and Baining Guo.
+\newblock Swin transformer: Hierarchical vision transformer using shifted windows.
+\newblock In \emph{ICCV}, 2021.
+
+\bibitem[Loshchilov(2019)]{loshchilov2017decoupled}
+I~Loshchilov.
+\newblock Decoupled weight decay regularization.
+\newblock In \emph{ICLR}, 2019.
+
+\bibitem[Loshchilov \& Hutter(2019)Loshchilov and Hutter]{loshchilov2018decoupled}
+Ilya Loshchilov and Frank Hutter.
+\newblock Decoupled weight decay regularization.
+\newblock In \emph{ICLR}, 2019.
+
+\bibitem[Mahoney(2011)]{mahoney2011large}
+Matt Mahoney.
+\newblock Large text compression benchmark, 2011.
+\newblock URL \url{http://mattmahoney.net/dc/text.html}.
+
+\bibitem[{MMDetection Contributors}(2018)]{MMDetection}
+{MMDetection Contributors}.
+\newblock {OpenMMLab Detection Toolbox and Benchmark}, August 2018.
+\newblock URL \url{https://github.com/open-mmlab/mmdetection}.
+
+\bibitem[Peng et~al.(2023)Peng, Alcaide, Anthony, Albalak, Arcadinho, Biderman, Cao, Cheng, Chung, Derczynski, Du, Grella, GV, He, Hou, Kazienko, Kocon, Kong, Koptyra, Lau, Lin, Mantri, Mom, Saito, Song, Tang, Wind, Wo{\'z}niak, Zhang, Zhou, Zhu, and Zhu]{peng2023rwkv}
+Bo~Peng, Eric Alcaide, Quentin~Gregory Anthony, Alon Albalak, Samuel Arcadinho, Stella Biderman, Huanqi Cao, Xin Cheng, Michael~Nguyen Chung, Leon Derczynski, Xingjian Du, Matteo Grella, Kranthi~Kiran GV, Xuzheng He, Haowen Hou, Przemyslaw Kazienko, Jan Kocon, Jiaming Kong, Bart{\l}omiej Koptyra, Hayden Lau, Jiaju Lin, Krishna Sri~Ipsit Mantri, Ferdinand Mom, Atsushi Saito, Guangyu Song, Xiangru Tang, Johan~S. Wind, Stanis{\l}aw Wo{\'z}niak, Zhenyuan Zhang, Qinghua Zhou, Jian Zhu, and Rui-Jie Zhu.
+\newblock {RWKV}: Reinventing {RNN}s for the transformer era.
+\newblock In \emph{EMNLP}, 2023.
+
+\bibitem[Radford et~al.(2018)Radford, Narasimhan, Salimans, Sutskever, et~al.]{radford2018improving}
+Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever, et~al.
+\newblock Improving language understanding by generative pre-training.
+\newblock \emph{OpenAI}, 2018.
+
+\bibitem[Tay et~al.(2020)Tay, Dehghani, Bahri, and Metzler]{effcienttransformer}
+Yi~Tay, Mostafa Dehghani, Dara Bahri, and Donald Metzler.
+\newblock Efficient transformers: {A} survey.
+\newblock \emph{arXiv preprint arXiv:2009.06732}, 2020.
+
+\bibitem[Touvron et~al.(2021)Touvron, Cord, Douze, Massa, Sablayrolles, and J{\'e}gou]{touvron2021training}
+Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, and Herv{\'e} J{\'e}gou.
+\newblock Training data-efficient image transformers \& distillation through attention.
+\newblock In \emph{ICML}, 2021.
+
+\bibitem[Touvron et~al.(2023)Touvron, Lavril, Izacard, Martinet, Lachaux, Lacroix, Rozi{\`e}re, Goyal, Hambro, Azhar, et~al.]{touvron2023llama}
+Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timoth{\'e}e Lacroix, Baptiste Rozi{\`e}re, Naman Goyal, Eric Hambro, Faisal Azhar, et~al.
+\newblock Llama: Open and efficient foundation language models.
+\newblock \emph{arXiv preprint arXiv:2302.13971}, 2023.
+
+\bibitem[Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, and Polosukhin]{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan~N Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock In \emph{NeurIPS}, 2017.
+
+\bibitem[Wang et~al.(2023{\natexlab{a}})Wang, Shi, Shi, Lei, Wang, He, Schiele, and Wang]{wang2023dsvt}
+Haiyang Wang, Chen Shi, Shaoshuai Shi, Meng Lei, Sen Wang, Di~He, Bernt Schiele, and Liwei Wang.
+\newblock Dsvt: Dynamic sparse voxel transformer with rotated sets.
+\newblock In \emph{CVPR}, 2023{\natexlab{a}}.
+
+\bibitem[Wang et~al.(2023{\natexlab{b}})Wang, Tang, Shi, Li, Li, Schiele, and Wang]{wang2023unitr}
+Haiyang Wang, Hao Tang, Shaoshuai Shi, Aoxue Li, Zhenguo Li, Bernt Schiele, and Liwei Wang.
+\newblock Unitr: A unified and efficient multi-modal transformer for bird's-eye-view representation.
+\newblock In \emph{ICCV}, 2023{\natexlab{b}}.
+
+\bibitem[Wang et~al.(2024)Wang, Tang, Jiang, Shi, Naeem, Li, Schiele, and Wang]{wang2024git}
+Haiyang Wang, Hao Tang, Li~Jiang, Shaoshuai Shi, Muhammad~Ferjad Naeem, Hongsheng Li, Bernt Schiele, and Liwei Wang.
+\newblock Git: Towards generalist vision transformer through universal language interface.
+\newblock In \emph{ECCV}, 2024.
+
+\bibitem[Wang et~al.(2023{\natexlab{c}})Wang, Panda, Hennigen, Greengard, Karlinsky, Feris, Cox, Wang, and Kim]{wang2023learning}
+Peihao Wang, Rameswar Panda, Lucas~Torroba Hennigen, Philip Greengard, Leonid Karlinsky, Rogerio Feris, David~Daniel Cox, Zhangyang Wang, and Yoon Kim.
+\newblock Learning to grow pretrained models for efficient transformer training.
+\newblock In \emph{ICLR}, 2023{\natexlab{c}}.
+
+\bibitem[Wang et~al.(2022)Wang, Yang, Men, Lin, Bai, Li, Ma, Zhou, Zhou, and Yang]{wang2022ofa}
+Peng Wang, An~Yang, Rui Men, Junyang Lin, Shuai Bai, Zhikang Li, Jianxin Ma, Chang Zhou, Jingren Zhou, and Hongxia Yang.
+\newblock Ofa: Unifying architectures, tasks, and modalities through a simple sequence-to-sequence learning framework.
+\newblock In \emph{ICML}, 2022.
+
+\bibitem[Wang et~al.(2023{\natexlab{d}})Wang, Bao, Dong, Bjorck, Peng, Liu, Aggarwal, Mohammed, Singhal, Som, et~al.]{wang2023image}
+Wenhui Wang, Hangbo Bao, Li~Dong, Johan Bjorck, Zhiliang Peng, Qiang Liu, Kriti Aggarwal, Owais~Khan Mohammed, Saksham Singhal, Subhojit Som, et~al.
+\newblock Image as a foreign language: Beit pretraining for vision and vision-language tasks.
+\newblock In \emph{CVPR}, 2023{\natexlab{d}}.
+
+\bibitem[Wei et~al.(2022)Wei, Wang, Schuurmans, Bosma, Xia, Chi, Le, Zhou, et~al.]{wei2022chain}
+Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Fei Xia, Ed~Chi, Quoc~V Le, Denny Zhou, et~al.
+\newblock Chain-of-thought prompting elicits reasoning in large language models.
+\newblock \emph{NeurIPS}, 2022.
+
+\bibitem[Ying et~al.(2021)Ying, Cai, Luo, Zheng, Ke, He, Shen, and Liu]{ying2021graphormer}
+Chengxuan Ying, Tianle Cai, Shengjie Luo, Shuxin Zheng, Guolin Ke, Di~He, Yanming Shen, and Tie-Yan Liu.
+\newblock Do transformers really perform badly for graph representation?
+\newblock In \emph{NeurIPS}, 2021.
+
+\bibitem[Yun et~al.(2019)Yun, Jeong, Kim, Kang, and Kim]{yun2019graph}
+Seongjun Yun, Minbyul Jeong, Raehyun Kim, Jaewoo Kang, and Hyunwoo~J Kim.
+\newblock Graph transformer networks.
+\newblock In \emph{NeurIPS}, 2019.
+
+\bibitem[Zhang \& Sennrich(2019)Zhang and Sennrich]{zhang2019root}
+Biao Zhang and Rico Sennrich.
+\newblock Root mean square layer normalization.
+\newblock In \emph{NeurIPS}, 2019.
+
+\bibitem[Zhang et~al.(2022)Zhang, Roller, Goyal, Artetxe, Chen, Chen, Dewan, Diab, Li, Lin, et~al.]{zhang2022opt}
+Susan Zhang, Stephen Roller, Naman Goyal, Mikel Artetxe, Moya Chen, Shuohui Chen, Christopher Dewan, Mona Diab, Xian Li, Xi~Victoria Lin, et~al.
+\newblock Opt: Open pre-trained transformer language models.
+\newblock \emph{arXiv preprint arXiv:2205.01068}, 2022.
+
+\bibitem[Zhu et~al.(2023)Zhu, Chen, Shen, Li, and Elhoseiny]{zhu2023minigpt}
+Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li, and Mohamed Elhoseiny.
+\newblock Minigpt-4: Enhancing vision-language understanding with advanced large language models.
+\newblock \emph{arXiv preprint arXiv:2304.10592}, 2023.
+
+\end{thebibliography}
