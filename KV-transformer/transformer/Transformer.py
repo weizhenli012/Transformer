@@ -1,5 +1,5 @@
-import bertlib
-from bertlib import MultiHeadAttention, FeedForward, ResConnection, PositionalEncoding
+import Bert
+from Bert import MultiHeadAttention, FeedForward, ResConnection, PositionalEncoding
 import torch.nn as nn
 import torch
 
